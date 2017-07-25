@@ -12,5 +12,6 @@ package oferta;
 public class NovaClasse {
     //isso é facil
     //Esta é uma classe muito da hora que sempre funciona quando é necessário
+    //vocês são ruins de smite
     //esta linha de codigo não deveria estar aqui
 }

@@ -12,4 +12,5 @@ package oferta;
 public class NovaClasse {
     //isso é facil
     //Esta é uma classe muito da hora que sempre funciona quando é necessário
+    //esta linha de codigo não deveria estar aqui
 }
